@@ -4,6 +4,8 @@ Microservices in the frontend.
 
 wildfly-swarm JSF microservice
 
+It is a JAR, but you can from pom.xml change it to WAR.
+
 How to run?
 
 1. mvn clean package -U
